@@ -58,7 +58,3 @@ window.onload = function() {
     pages[0].style.backgroundImage = "url(" + generatePatternDataURL() + ")";
     pages[1].style.backgroundImage = "url(" + generatePatternDataURL() + ")";
 };
-
-if (bowser.name.toLowerCase() !== 'chrome') {
-    document.getElementsByClassName('❗')[0].classList.add('❗❗');
-}
