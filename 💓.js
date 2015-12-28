@@ -16,7 +16,7 @@ var images = paths.map(function(p) {
     svg.setAttribute("width", "50px");
     svg.setAttribute("height", "50px");
     path.setAttribute("d", p);
-    path.style.fill = "#ddd";
+    path.style.fill = "#ccc";
     svg.appendChild(path);
 
     var s   = new XMLSerializer();

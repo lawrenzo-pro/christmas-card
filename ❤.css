@@ -50,10 +50,6 @@ html {
     width: 50%;
 }
 
-.📄 + .📄 {
-    border-left: 1px dashed #ddd;
-}
-
 .☝ {
     cursor: default;
     margin-top: -20mm;
@@ -130,6 +126,10 @@ html {
         margin: 0 auto;
         transform: scale(.75);
         width: 297mm;
+    }
+
+    .📄 + .📄 {
+        border-left: 1px dashed #ddd;
     }
 
     .ℹ {
