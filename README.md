@@ -4,4 +4,3 @@
 > 
 > 🎁 With HTML, CSS and JS 
 > 
-> 🎉 http://fabsrc.github.io/do-they-know-its-christmas
